@@ -380,25 +380,23 @@ disease_dic = {
         <br/> 2. There are many different strains of P. infestans. These are called clonal lineages and designated by a number code (i.e. US-23). Many clonal lineages affect both tomato and potato, but some lineages are specific to one host or the other.
         <br/> 3. The host range is typically limited to potato and tomato, but hairy nightshade (Solanum physalifolium) is a closely related weed that can readily become infected and may contribute to disease spread. Under ideal conditions, such as a greenhouse, petunia also may become infected.""",
 
+'Tomato___Leaf_Mold': """ <b>Crop</b>: Tomato <br/>Disease: Leaf Mold<br/>
+        <br/> Cause of disease:<br/>
 
+        <br/><br/> 1. Leaf mold is caused by the fungus Passalora fulva (previously called Fulvia fulva or Cladosporium fulvum). It is not known to be pathogenic on any plant other than tomato.<br/>
 
-    'Tomato___Leaf_Mold': """ <b>Crop</b>: Tomato <br/>Disease: Leaf Mold<br/>
-        <br/> Cause of disease:
-
-        <br/><br/> 1. Leaf mold is caused by the fungus Passalora fulva (previously called Fulvia fulva or Cladosporium fulvum). It is not known to be pathogenic on any plant other than tomato.
-
-        <br/> 2. Leaf spots grow together and turn brown. Leaves wither and die but often remain attached to the plant.
-        <br/> 3. Fruit infections start as a smooth black irregular area on the stem end of the fruit. As the disease progresses, the infected area becomes sunken, dry and leathery.
+        <br/> 2. Leaf spots grow together and turn brown. Leaves wither and die but often remain attached to the plant.<br/>
+        <br/> 3. Fruit infections start as a smooth black irregular area on the stem end of the fruit. As the disease progresses, the infected area becomes sunken, dry and leathery.<br/>
         <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Use drip irrigation and avoid watering foliage.
+        <br/>1. Use drip irrigation and avoid watering foliage.<br/>
 
-        <br/>2. Space plants to provide good air movement between rows and individual plants.
+        <br/>2. Space plants to provide good air movement between rows and individual plants.<br/>
         
-        <br/>3. Stake, string or prune to increase airflow in and around the plant.
-        <br/>4. Sterilize stakes, ties, trellises etc. with 10 percent household bleach or commercial sanitizer.
-        <br/>5. Circulate air in greenhouses or tunnels with vents and fans and by rolling up high tunnel sides to reduce humidity around plants.
-        <br/>6. Keep night temperatures in greenhouses higher than outside temperatures to avoid dew formation on the foliage.
-        <br/>7. Remove crop residue at the end of the season. Burn it or bury it away from tomato production areas.""",
+        <br/>3. Stake, string or prune to increase airflow in and around the plant.<br/>
+        <br/>4. Sterilize stakes, ties, trellises etc. with 10 percent household bleach or commercial sanitizer.<br/>
+        <br/>5. Circulate air in greenhouses or tunnels with vents and fans and by rolling up high tunnel sides to reduce humidity around plants.<br/>
+        <br/>6. Keep night temperatures in greenhouses higher than outside temperatures to avoid dew formation on the foliage.<br/>
+        <br/>7. Remove crop residue at the end of the season. Burn it or bury it away from tomato production areas.<br/>"""
 
 
     'Tomato___Septoria_leaf_spot': """ <b>Crop</b>: Tomato <br/>Disease: Leaf Spot<br/>
